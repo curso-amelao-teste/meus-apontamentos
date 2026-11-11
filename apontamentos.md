@@ -10,5 +10,5 @@
 - O main é o branch principal.
 
 ## Colaboração
-- Um fork é uma cópia de um projeto na minha conta.
+- Um fork é uma cópia de um projeto na minha conta. No fim, proponho as alterações ao projeto original.
 - Um Pull Request propõe alterações ao main.
