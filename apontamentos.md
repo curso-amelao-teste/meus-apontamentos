@@ -1,4 +1,4 @@
-# Apontamentos do curso
+# Os meus apontamentos de Git
 
 ## Git
 - O Git guarda o histórico dos meus ficheiros.
